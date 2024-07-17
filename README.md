@@ -9,8 +9,6 @@
 #
 
 <br>
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
 <div align="center"> 
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=9370DB&color:FFF)](https://wa.me/5551994279000)
