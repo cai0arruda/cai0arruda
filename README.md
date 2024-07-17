@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center" style="font-size: 15px; font-family: poppins;">19 anos de idade e há 4 anos respirando tecnologia dia e noite 😅. Sou estudante de Sistemas de Informação (FACCAT), e desenvolvedor web, sempre em busca de novos desafios e tecnologias 🚀. Um dev apaixonado por tech e inovação 💡. Adoro explorar novas linguagens de programação, frameworks e ferramentas que possam melhorar a vida das pessoas através da tecnologia 💻🌐.
+<h1 align="center" style="font-size: 10px; font-family: poppins;">19 anos de idade e há 4 anos respirando tecnologia dia e noite 😅. Sou estudante de Sistemas de Informação (FACCAT), e desenvolvedor web, sempre em busca de novos desafios e tecnologias 🚀. Um dev apaixonado por tech e inovação 💡. Adoro explorar novas linguagens de programação, frameworks e ferramentas que possam melhorar a vida das pessoas através da tecnologia 💻🌐.
   
 #
 
