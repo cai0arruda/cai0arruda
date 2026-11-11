@@ -1,51 +1,58 @@
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9370DB&height=180&section=header&text=Caio%20Arruda&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Dev%20Web%20%E2%80%A2%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=18" width="100%" alt="Header" />
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&random=false&width=524&lines=<+Welcome+to+my+profile+>" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=%3C+Welcome+to+my+profile+%2F%3E;Desenvolvedor+Web+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
-</div>
-
-<p align="center" style="font-size: 30px; font-family: poppins;">21 anos de idade e 6 anos respirando tecnologia dia e noite 😅. Sou estudante de Sistemas de Informação (FACCAT), e desenvolvedor web, sempre em busca de novos desafios e tecnologias 🚀. Um dev apaixonado por tech e inovação 💡. Gosto de explorar novas linguagens de programação, frameworks e ferramentas que possam melhorar a vida das pessoas através da tecnologia 💻🌐.
-  
-#
-
-<br>
-<div align="center"> 
-
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=9370DB&color:FFF)](https://wa.me/5551994279000)
-[![Twitter](https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=X&logoColor=9370DB&color:FFF)](https://x.com/cai0arrudaa)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9370DB&color:FFF)](https://instagram.com/cai0arruda)
-[![Instagram](https://img.shields.io/badge/-spotify-000?style=for-the-badge&logo=spotify&logoColor=9370DB&color:FFF)](https://open.spotify.com/user/3chcm7dnys1dkkqtdjgpimu99)
-
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="mysql logo"  />
-  <img width="8" />
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=9370DB)](https://wa.me/5551994279000)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=9370DB)](https://x.com/cai0arrudaa)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9370DB)](https://instagram.com/cai0arruda)
+[![Spotify](https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=spotify&logoColor=9370DB)](https://open.spotify.com/user/3chcm7dnys1dkkqtdjgpimu99)
+![Profile views](https://komarev.com/ghpvc/?username=cai0arruda&style=for-the-badge&color=9370DB&label=VISITAS)
+
 </div>
 
-<br>
+## 👨‍💻 Sobre mim
 
+Tenho **22 anos** e há **7 respiro tecnologia** dia e noite 😅. Sou estudante de **Sistemas de Informação na FACCAT** e desenvolvedor web, sempre atrás de novos desafios e tecnologias 🚀.
 
-#
+Gosto de explorar linguagens, frameworks e ferramentas que possam melhorar a vida das pessoas através da tecnologia 💻🌐.
 
-<br>
+## 🛠️ Tecnologias
 
-<div style="text-align: center;" align="center">
-  <h3 style="font-size: 30px; font-family: poppins">🏆 GitHub Stats</h3>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cai0arruda&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=9370DB&text_color=FFF&border_radius=10&border_color=9370DB&icon_color=9370DB&theme=jolly" alt="GitHub stats">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,linux,vscode&perline=10" alt="Tecnologias" />
+
 </div>
-<div style="text-align: center;" align="center">
-      <a href="https://github.com/cai0arruda/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cai0arruda&line_height=50&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=10&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cai0arruda&show_icons=true&count_private=true&hide_border=false&hide=issues&bg_color=000000&title_color=9370DB&text_color=FFFFFF&icon_color=9370DB&border_color=9370DB&border_radius=10&locale=pt-br" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cai0arruda&layout=compact&langs_count=6&hide=html,css&bg_color=000000&title_color=9370DB&text_color=FFFFFF&border_color=9370DB&border_radius=10&locale=pt-br" alt="Linguagens mais usadas" />
+
+<img src="https://streak-stats.demolab.com?user=cai0arruda&background=000000&border=9370DB&ring=9370DB&fire=9370DB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9370DB&sideLabels=9370DB&dates=8B8B8B&border_radius=10&locale=pt_BR" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cai0arruda&bg_color=000000&color=FFFFFF&line=9370DB&point=FFFFFF&area=true&area_color=9370DB&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20%C3%BAltimo%20m%C3%AAs" alt="Gráfico de atividade" />
+
 </div>
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cai0arruda/cai0arruda/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cai0arruda/cai0arruda/output/github-snake.svg" />
+    <img alt="Snake comendo minhas contribuições" src="https://raw.githubusercontent.com/cai0arruda/cai0arruda/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:000000&height=100&section=footer" width="100%" alt="Footer" />
