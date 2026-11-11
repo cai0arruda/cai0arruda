@@ -33,16 +33,14 @@ Gosto de explorar linguagens, frameworks e ferramentas que possam melhorar a vid
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=cai0arruda&show_icons=true&count_private=true&hide=issues&bg_color=000000&title_color=9370DB&text_color=FFFFFF&icon_color=9370DB&border_color=9370DB&border_radius=10&locale=pt-br" alt="GitHub stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=cai0arruda&layout=compact&langs_count=6&hide=html,css&bg_color=000000&title_color=9370DB&text_color=FFFFFF&border_color=9370DB&border_radius=10&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cai0arruda&show_icons=true&count_private=true&hide_border=false&hide=issues&bg_color=000000&title_color=9370DB&text_color=FFFFFF&icon_color=9370DB&border_color=9370DB&border_radius=10&locale=pt-br" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cai0arruda&layout=compact&langs_count=6&hide=html,css&bg_color=000000&title_color=9370DB&text_color=FFFFFF&border_color=9370DB&border_radius=10&locale=pt-br" alt="Linguagens mais usadas" />
-
-<img src="https://streak-stats.demolab.com?user=cai0arruda&background=000000&border=9370DB&ring=9370DB&fire=9370DB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9370DB&sideLabels=9370DB&dates=8B8B8B&border_radius=10&locale=pt_BR" alt="GitHub streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cai0arruda&bg_color=000000&color=FFFFFF&line=9370DB&point=FFFFFF&area=true&area_color=9370DB&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20%C3%BAltimo%20m%C3%AAs" alt="Gráfico de atividade" />
-
-</div>
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=cai0arruda&background=000000&border=9370DB&ring=9370DB&fire=9370DB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9370DB&sideLabels=9370DB&dates=8B8B8B&border_radius=10&locale=pt_BR" alt="GitHub streak" />
+</p>
 
 ## 🐍 Contribuições
 
